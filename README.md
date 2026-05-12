@@ -55,7 +55,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout
 
 - 📧 Email: jefferson.qpm@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-queiroz-a70070187/
-https://img.shields.io/badge/LinkedIn-Jefferson%20Queiroz-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/SEU-LINK)
+
 ---
 
 ⭐ Sempre buscando evoluir como desenvolvedor e entregar soluções de qualidade.
