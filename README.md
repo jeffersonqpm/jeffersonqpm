@@ -1,44 +1,62 @@
 # 👨‍💻 Jefferson Queiroz
 
-Sou profissional de tecnologia focado em desenvolvimento e soluções corporativas.
+💼 Desenvolvedor Back-end  
+📍 Recife - PE  
 
 ---
 
 ## 🚀 Sobre mim
-- 💼 Experiência com sistemas empresariais (SAP)
-- 📊 Interesse em dados e automação
-- 📍 Recife - PE
+Sou desenvolvedor back-end com foco em construção de APIs, integração de sistemas e soluções robustas para ambientes corporativos.
+
+Tenho experiência com sistemas empresariais (incluindo SAP) e busco sempre desenvolver aplicações eficientes, escaláveis e bem estruturadas.
 
 ---
 
-## 🛠️ Tecnologias
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+## 🛠️ Tecnologias & Ferramentas
+
+### 🔹 Back-end
+- Java
+- Spring Boot
+- APIs REST
+
+### 🔹 Banco de Dados
+- MySQL
+- SQL Server
+- PostgreSQL
+
+### 🔹 Integração & Sistemas
+- SAP
+- Web Services
+- JSON / XML
+
+### 🔹 Ferramentas
+- Git & GitHub
+- Docker
+- Postman
 
 ---
 
-## 📌 Projetos
-- 📊 Sistema X — gerenciamento de dados
-- 🔧 Ferramenta Y — automação de tarefas
+## 📂 Projetos
+
+- 🔹 API REST para gestão de dados  
+- 🔹 Integração de sistemas com SAP  
+- 🔹 Automação de processos back-end  
+
+---
+
+## 📊 Estatísticas
+
+https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact
 
 ---
 
 ## 📫 Contato
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: https://linkedin.com/in/...
 
-<!--
-**jeffersonqpm/jeffersonqpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/seuusuario  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Sempre buscando evoluir como desenvolvedor e entregar soluções de qualidade.
