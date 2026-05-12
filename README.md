@@ -6,9 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor back-end com foco em construção de APIs, integração de sistemas e soluções robustas para ambientes corporativos.
-
-Tenho experiência com sistemas empresariais (incluindo SAP) e busco sempre desenvolver aplicações eficientes, escaláveis e bem estruturadas.
+Atuo como desenvolvedor back-end em evolução contínua, com foco em APIs, integração de sistemas e soluções robustas para o ambiente corporativo.
 
 ---
 
@@ -23,23 +21,24 @@ Tenho experiência com sistemas empresariais (incluindo SAP) e busco sempre dese
 - MySQL
 - SQL Server
 - PostgreSQL
-
+<!--
 ### 🔹 Integração & Sistemas
 - SAP
 - Web Services
 - JSON / XML
-
+-->
 ### 🔹 Ferramentas
 - Git & GitHub
-- Docker
 - Postman
+- Insomnia
+- <!-- Docker -->
 
 ---
 
 ## 📂 Projetos
 
 - 🔹 API REST para gestão de dados  
-- 🔹 Integração de sistemas com SAP  
+<!-- 🔹 Integração de sistemas com SAP  -->
 - 🔹 Automação de processos back-end  
 
 ---
