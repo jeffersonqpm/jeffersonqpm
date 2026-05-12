@@ -42,19 +42,19 @@ Atuo como desenvolvedor back-end em evolução contínua, com foco em APIs, inte
 - 🔹 Automação de processos back-end  
 
 ---
-
+<!--
 ## 📊 Estatísticas
 
 https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact
-
+-->
 ---
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seuusuario  
+- 📧 Email: jefferson.qpm@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jefferson-queiroz-a70070187/
 
 ---
 
