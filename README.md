@@ -1,4 +1,32 @@
-## Hi there 👋
+# 👨‍💻 Jefferson Queiroz
+
+Sou profissional de tecnologia focado em desenvolvimento e soluções corporativas.
+
+---
+
+## 🚀 Sobre mim
+- 💼 Experiência com sistemas empresariais (SAP)
+- 📊 Interesse em dados e automação
+- 📍 Recife - PE
+
+---
+
+## 🛠️ Tecnologias
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+---
+
+## 📌 Projetos
+- 📊 Sistema X — gerenciamento de dados
+- 🔧 Ferramenta Y — automação de tarefas
+
+---
+
+## 📫 Contato
+- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: https://linkedin.com/in/...
 
 <!--
 **jeffersonqpm/jeffersonqpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
