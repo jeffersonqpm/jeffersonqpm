@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-Atuo como desenvolvedor back-end em evolução contínua, com foco em APIs, integração de sistemas e soluções robustas para o ambiente corporativo.
-
+Atuo como desenvolvedor back-end e PMO, aliando o conhecimento técnico em APIs e integração de sistemas à gestão estratégica de projetos. 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
