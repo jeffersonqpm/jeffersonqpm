@@ -16,6 +16,7 @@ Atuo como desenvolvedor back-end e PMO, aliando o conhecimento técnico em APIs 
 - Java
 - Spring Boot
 - APIs REST
+- JPA e Hibernate
 
 ### 🔹 Banco de Dados
 - MySQL
