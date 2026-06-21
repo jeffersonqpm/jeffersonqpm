@@ -1,6 +1,7 @@
 # 👨‍💻 Jefferson Queiroz
 
-💼 Desenvolvedor Back-end  
+💼 Desenvolvedor Back-end & PMO
+
 📍 Recife - PE  
 
 ---
